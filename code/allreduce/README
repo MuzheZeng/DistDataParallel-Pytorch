@@ -1,0 +1,3 @@
+Please run main.py by:
+python main.py --rank $rank$  --num_nodes $Nnodes$ --master_ip $ip_address$
+
